@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Colorinfo</string>
+    <string name="defaultColorValue">127</string>
 </resources>
